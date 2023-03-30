@@ -1,4 +1,5 @@
 # Todo Application
+This Todo application built with Spring Boot showcases my skills in performing CRUD operations, implementing exception handling, and utilizing the H2 database. The application allows users to create, read, update, and delete tasks, with robust exception handling to ensure data integrity. The use of H2 database enables efficient data storage and retrieval, and the use of Spring Boot simplifies the development process.
 ### Requirments
  * IntelliJIDEA
  * Serverport: 8080 (use: localhost:8080)
